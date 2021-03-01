@@ -4,6 +4,7 @@
 Project 1 from Stephen Feiner's 3D User Interfaces course at Columbia University. While a theme was not required, I chose to make a 1980s music themed game. There are three types of players: rolling ball, sliding cube (both controlled by accelerometer), and jumping cylindar (controlled by touch). Built in Unity for iOS. Includes interactive obstacles such as falling objects, a cannon, ferris wheeel, and seesaw. Can be built in Unity and delpoyed to iOS via Xcode. Contact me for assistance, if needed. The assignment instructions with the assigned  specifications for the game can be found in the assignments folder.
 
 [Video Demonstration](https://youtu.be/L8c-aUD7oHc)
+
 [Source Code (Google Drive)](https://drive.google.com/drive/folders/1IvE-tDkSugWsQ7RZ7RiVzdoqA3cpwogH?usp=sharing): build can be downloaded and deployed via xcode. As this is a homework assignment that can not be published publicly, please request access via Google Drive if you would like to veiw source code.
 
 ### Instructions: 
