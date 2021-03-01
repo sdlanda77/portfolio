@@ -1,4 +1,4 @@
-# portfolio
+# Sam Landa - Portfolio
 Collection of school assignments and projects
 
 
