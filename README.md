@@ -7,6 +7,8 @@ Collection of school assignments and projects
 
 ## Coding Choreography
 
+## Artificial Intelligence
+### [Coding Homeworks]()
 
 ## Embedded Systems
 
