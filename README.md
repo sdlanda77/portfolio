@@ -16,18 +16,18 @@ The following projects are samples from this course that are presentable on the 
 
 #### Face Tracking with Googly Eyes and Scaling
 ##### Face mask drawn in dots; bring face closer and further from camera to seperate masks and active/deactive googly eyes
-[Presentation mode](https://editor.p5js.org/sdlanda77/present/L98Y4ykd9)
-[With source code](https://editor.p5js.org/sdlanda77/sketches/L98Y4ykd9)
+[Presentation](https://editor.p5js.org/sdlanda77/present/L98Y4ykd9)
+([with source code](https://editor.p5js.org/sdlanda77/sketches/L98Y4ykd9))
 
 #### Rocky Horror Lips
 ##### Blackout of entire camera image except lips, in the style of Rocky Horror.
-[Presentation mode](https://editor.p5js.org/sdlanda77/Present/rIrLjrviX)
-[With source code](https://editor.p5js.org/sdlanda77/sketches/rIrLjrviX)
+[Presentation](https://editor.p5js.org/sdlanda77/Present/rIrLjrviX)
+([with source code](https://editor.p5js.org/sdlanda77/sketches/rIrLjrviX))
 
 #### Dizzy Eyes with Noise
 ##### Simple animation in which eyes with red pupils roll around.
-[Presentation mode](https://editor.p5js.org/sdlanda77/present/J5MNy22Z0)
-[With source code](https://editor.p5js.org/sdlanda77/sketches/J5MNy22Z0)
+[Presentation](https://editor.p5js.org/sdlanda77/present/J5MNy22Z0)
+([with source code](https://editor.p5js.org/sdlanda77/sketches/J5MNy22Z0))
 
 
 
