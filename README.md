@@ -10,7 +10,7 @@ Course webpage and syllabus: [COMS W4172](http://www.cs.columbia.edu/~feiner/cou
 
 In this course, we explored multiple methods in which code and choreography can interact using different body tracking methods and technologies. The emphasis of this course was less on coding technique and more on how we can critique and analyze movement and code from a choreographer's point of view. Some projects relied on in-person technology such as Xbox Kinect sensors and projectors.
 
-### Various projects in p5.js [Repo of source code](https://github.com/sdlanda77/portfolio/tree/main/CodingChoreography)
+### Various projects in p5.js ([Repo of source code](https://github.com/sdlanda77/portfolio/tree/main/CodingChoreography))
 
 The following projects are samples from this course that are presentable on the web. 
 
