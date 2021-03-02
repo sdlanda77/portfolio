@@ -38,12 +38,23 @@ Coding homeworks, via Google Collaboratory. Instructions for the problem set and
 
 Topics covered included search problems using uninformed and heuristic search, games, constraint satisfaction problems, sequential decision making, Markov decision processes, reinforcement learning, Bayesian networks, hidden Markov models, inference and sampling, introductory machine learning, decision trees, perceptrons, and neural nets. 
 
-## Creative Embedded Systems (Spring 2021, will be updated as possible throughout the semester.)
+## Creative Embedded Systems (Spring 2021, will be updated as possible throughout the semester. [Repo](https://github.com/sdlanda77/portfolio/tree/main/CreativeEmbeddedSystems))
 
 This course is an extension of a traditional embedded systems design course in which material is taught through independent creative projects. While this class requires technical knowlede, it is not strictly a technical class. 
 
+### Generative Art using visual display and 8 LEDs
+[Tides by your side](https://www.youtube.com/watch?v=fOT8XYG0oEY)
 
+[Repo with source code](https://github.com/sdlanda77/portfolio/tree/main/CreativeEmbeddedSystems/HW1%20copy)
+
+## User Interface Design
+### Design project 1
+
+### Design project 2 (group project)
+Assigned to create a UI for new college students to connect with one anther.
 
 
 
 ## Computer Science Core Classes
+### Advanced Programming
+### Data Structures
